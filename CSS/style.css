@@ -1,0 +1,23 @@
+h1{
+   color:#0423CD;
+}
+body{
+backgroud-color.pink;
+}
+p{
+ color:blue;
+ font-family: Arial Black;
+ font- size:25
+}
+
+img.img-peque{
+   width:150px;
+   height:145px
+}
+.circular--square {
+  border-radius: 100%;
+  width:150px;
+  height:145px
+}
+
+
