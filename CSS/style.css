@@ -2,12 +2,13 @@ h1{
    color:#0423CD;
 }
 body{
-backgroud-color.pink;
+ background-color: rgb(250, 250, 250);
 }
 p{
  color:blue;
  font-family: Arial Black;
- font- size:25
+ font-size: 25;
+ 
 }
 
 img.img-peque{
@@ -177,6 +178,32 @@ height:200px;
   margin-right: auto;
 
 }
+aside {
+	width: 40%;
+	padding-left: 0.5rem;
+	margin-left: 0.5rem;
+	float:right;
+	box-shadow: inset 5px 0
+5px -5px #29627e;
+	font-style:italic;
+	color:#29627e
+}
 
+div.divisioncita {
+	border: 5px groove rgb(105, 15, 146);
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+div.divisioncita2{
+	border: 12px groove rgb(89, 89, 185);
+	padding: 50px 30px 50px 50px;
+	margin: 25px 50px 75px 100px;
 
+}
 

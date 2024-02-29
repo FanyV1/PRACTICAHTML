@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    </head>
+    <body>
+        <h2> prueba 2 </h2>
+        <DIV class="divisioncita">este es un elemento
+             que tiene un borde tiene un margen superior en 25 pixeles.
+        </DIV>
+        <DIV class="divisioncita2">este es un elemento que tiene informacion muy importante para ti
+        </DIV>
+    
+    </body>
+</html>
