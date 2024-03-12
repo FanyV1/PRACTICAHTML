@@ -26,7 +26,7 @@ p {
     background-color: rgb(248, 248, 252);
     border-radius: 30px;
     width: 60%;
-    box-shadow: 1px 1px 20px 10px #8f8e90;
+    box-shadow: 1px 1px 20px 10px #8f61bd;
     text-align: center;
     margin: auto;
     /* max-width: 80rem; */
@@ -41,7 +41,7 @@ p {
 
 .icon {
     width: 40px;
-    border: 1px solid rgb(115, 117, 139);
+    border: 1px solid rgb(243, 242, 248);
     padding: 5px;
     border-radius: 5px;
     margin: 0 7px;
@@ -61,9 +61,9 @@ p {
 
 .inputs {
     height: 35px;
-    background-color: #f6f5fa;
+    background-color: #e1ddee;
     /* border: none; */
-    border:1px solid #ffffff;
+    border:1px solid #2009f1;
     border-radius: 5px;
     margin-bottom: 10px;
     padding: 0 10px;
@@ -86,6 +86,8 @@ p {
 .container_button {
     display: flex;
     justify-content: center;
+    color: #0b0b0e;
+   
 }
 
 .button {
@@ -99,7 +101,7 @@ p {
 }
 
 .btninit {
-    background-color: #607def;
+    background-color: #0233f8;
     border: none;
     margin: 25px 0;
 }
@@ -110,6 +112,8 @@ p {
 
 .titulo_iniciar {
     font-size: 35px;
+    border-color: #5351db;
+     
 }
 
 h1 {
@@ -119,7 +123,7 @@ h1 {
 }
 
 .container_iniciar, .container_crear {
-    /* background-color: black; */
+    /* background-color: blue; */
     display: flex;
     justify-content: center;
 }
@@ -163,13 +167,17 @@ h1 {
 }
 
 .btncrear {
-    background-color: transparent;
-    border: 2px solid #ffffff;
+    background-color:transparent;
+    border: 2px solid transparent;
     margin-top: 1rem;
+    color: #fbfbfc;
+    color: #00030e;
+    
+
 }
 
 .button2:hover {
-    box-shadow: 0 0 10px #9d9e9e;
+    box-shadow: 0 0 10px #4708f7;
 }
 
 .carousel-inner {
@@ -185,4 +193,13 @@ h1 {
     font-size: 90px;
 
 }
-
+.container_iniciar123{
+    color: #00030e;
+    box-shadow: 0 0 10px #4708f7;
+    background-color: transparent;
+    border: 2px solid #1310e9;
+    margin-top: 1rem;
+}
+.container_crear{
+    color:#1310e9
+}
