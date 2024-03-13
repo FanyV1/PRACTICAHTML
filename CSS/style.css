@@ -210,3 +210,26 @@ div.divisioncita2{
 
 }
 
+.div{
+	margin: 6rem 12rem;
+	height: 20rem;
+	width: 36rem;
+	background-size: 100% 100%;
+	box-shadow: 20px 20px 10px grey;
+	animation: silder 10s linear infinite;
+}
+
+@keyframes silder {
+	0%{
+		background-image: url(https://media.istockphoto.com/id/517188688/es/foto/paisaje-de-monta%C3%B1a.jpg?s=612x612&w=0&k=20&c=EnSd5sJdxih_svZHscQ5Hfzr3RSOdXO9MpdmKK4CMTs=);
+	}
+	30%{
+		background-image: url(https://st2.depositphotos.com/1852625/5395/i/450/depositphotos_53954927-stock-photo-beautiful-landscape-of-scottish-nature.jpg);
+	}
+	60%{
+		background-image: url(https://st.depositphotos.com/1899425/1623/i/450/depositphotos_16232649-stock-photo-moraine-lake-sunrise-colorful-landscape.jpg);
+	}
+	100%{
+		background-image: url(https://www.shutterstock.com/image-photo/lake-moraine-canada-260nw-1132044410.jpg);
+	}
+}
